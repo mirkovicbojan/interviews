@@ -1,0 +1,24 @@
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\BankDB.db
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Metropol Bank Clerk App.exe.config
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Metropol Bank Clerk App.exe
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Metropol Bank Clerk App.pdb
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Dapper.dll
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\System.Data.SQLite.dll
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Dapper.xml
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\System.Data.SQLite.xml
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.csproj.AssemblyReference.cache
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol_Bank_Clerk_App.Form1.resources
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol_Bank_Clerk_App.Form2.resources
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol_Bank_Clerk_App.Form3.resources
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol_Bank_Clerk_App.Form4.resources
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol_Bank_Clerk_App.Properties.Resources.resources
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.csproj.GenerateResource.cache
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.csproj.CoreCompileInputs.cache
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.csproj.CopyComplete
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.exe
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.pdb
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Metropol Bank Clerk App.exe.manifest
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\bin\Release\Metropol Bank Clerk App.application
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.exe.manifest
+C:\Users\Glupi Zmaj\Desktop\Metropol app\portfolio\Metropol Bank Clerk App\obj\Release\Metropol Bank Clerk App.application
